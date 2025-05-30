@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Karki</h1>
 <h3 align="center">🚀 MERN Stack Developer | Building full-stack web apps</h3>
 <h4 align="center">
-  🌐 Portfolio: <a href="portfolio-fsn1pq872-karkianuj17s-projects.vercel.app" target="_blank">Click Here</a>
+  🌐 Portfolio: <a href="https://portfolio-git-main-karkianuj17s-projects.vercel.app" target="_blank">Click Here</a>
 </h4>
 
 <br/>
